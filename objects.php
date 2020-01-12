@@ -167,7 +167,7 @@ class Address {
     }
 
 }
-
+/* 
 $someone = new Person("Me", "123-3245-344", "me@me.com");
 $aSpender = new Customer("Big Buyer", "123-543-6635", "sdfkjh@ksdfhj", 5, 123.32);
 $aWorker = new Employee("Working Hard", "213-654-233434", "sdklfj@ksjdf", "crafts", "04-21-1999");
@@ -185,5 +185,5 @@ echo "<br>";
 echo $somePlace->getZipCode()->getCity();
 echo "<br>";
 echo $otherPlace->getZipCode()->getCity();
-
+ */
 ?>
